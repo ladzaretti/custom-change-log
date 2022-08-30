@@ -1,8 +1,10 @@
 {
+/*
   "packageRules": [
     {
       "matchPackageNames": ["b4bz/homer"],
       "customChangelogUrl": "https://github.com/bastienwirtz/homer"
     }
   ]
+ */
 }
